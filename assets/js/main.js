@@ -37,7 +37,7 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'jackie-parker-SnyQ8h22dl8-unsplash.jpg': 'center',
-							'images/pexels-rodnae-productions-8760675.jpg': 'center',
+							'pexels-rdne-8760675.jpg': 'center',
 							'thought-catalog-23KdVfc395A-unsplash.jpg': 'center'
 						},
 
